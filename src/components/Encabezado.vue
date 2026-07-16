@@ -1,7 +1,7 @@
 <template>
   <header>
-    <h1>Mi Emprendimiento</h1>
-    <p>Bienvenido a nuestra página web</p>
+    <h1>Registro de proveedores</h1>
+    <p>Sistema de apoyo para la gestión comercial</p>
   </header>
 </template>
 
@@ -11,7 +11,7 @@
 
 <style scoped>
 header {
-  background-color: #42b883;
+  background-color: #000a06;
   color: white;
   text-align: center;
   padding: 20px;
